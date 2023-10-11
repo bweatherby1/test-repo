@@ -1,0 +1,40 @@
+spittin' snippets
+Dev ducks
+Happy heisenbugs
+General Jimmy's
+Hilarious hindenbugs
+Hidden higgs
+Unicorny users
+Jenga jammers
+4 Big Bananas
+
+THE COMMITTERS
+
+
+
+
+
+
+
+
+
+
+
+
+4(VS code)
+1. search in extensions, install
+2. code .
+3. Click on the bottom where it says main, then click/select your terminal in the new menu
+4. cntl + shift + ~. search bar 
+5. crtl + f
+
+5(testing your code locally)
+1. http-server -o
+2. run the command, after window opens hard refresh, then inspect if that doesn't work
+3. So we don't embarrass ourselves. To make sure it works properly before we push and merge with the main branch.
+
+6(questions your team has)
+Abby. 
+Brad. 
+Skeo. 
+Tion. 
